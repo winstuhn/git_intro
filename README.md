@@ -1,1 +1,2 @@
-"Winston Chan" 
+"Winston Chan"
+chanwins@oregonstate.edu
