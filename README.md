@@ -1,1 +1,4 @@
-"Winston Chan"
+Winston Chan
+chanwins@oregonstate.edu
+blue
+Alison Wonderland
